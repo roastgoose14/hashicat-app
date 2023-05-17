@@ -12,6 +12,7 @@ cat << EOM > /var/www/html/index.html
   </head>
   <body>
   <div style="width:800px;margin: 0 auto">
+  Welcome to ${PREFIX}'s app. Replace this text with your own.
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
